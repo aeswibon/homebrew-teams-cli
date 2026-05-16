@@ -15,7 +15,7 @@ After installation, run:
 
 ```bash
 teams-cli --help
-
+```
 
 See the [main repository](https://github.com/aeswibon/teams-cli) for authentication setup, command reference, and troubleshooting.
 
