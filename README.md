@@ -4,18 +4,18 @@ Homebrew tap for **[teams-cli](https://github.com/aeswibon/teams-cli)** — a te
 
 ## Installation
 
-\`\`\`bash
+```bash
 brew tap aeswibon/teams-cli
 brew install teams-cli
-\`\`\`
+```
 
 ## Usage
 
 After installation, run:
 
-\`\`\`bash
+```bash
 teams-cli --help
-\`\`\`
+
 
 See the [main repository](https://github.com/aeswibon/teams-cli) for authentication setup, command reference, and troubleshooting.
 
